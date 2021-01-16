@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi there! This is Rahul Bharuka. I am a Software Engineer. I have earned my Masters from [CSE department]((http://www.cse.iitm.ac.in/)) at [IIT Madras](https://www.iitm.ac.in/). Please check out [my LinkedIn profile](https://www.linkedin.com/in/rahul-bharuka).
+Hi there! This is Rahul Bharuka. I am a Software Engineer. I earned my Masters from [CSE department]((http://www.cse.iitm.ac.in/)) at [IIT Madras](https://www.iitm.ac.in/). Please check out [my LinkedIn profile](https://www.linkedin.com/in/rahul-bharuka).
 
 I am passionate about problem solving and building large-scale applications. My areas of interest include
-- Problem Solving
 - Golang
 - Microservices
 - Cloud-native applications
